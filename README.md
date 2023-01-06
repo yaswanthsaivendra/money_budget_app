@@ -10,7 +10,7 @@ Demo of the project :  http://yaswanthsaivendra.me/money_budget_tracking_app/
    1. Create virtual environment and activate it :
    
 		virtualenv env
-		
+
 		source ./env/bin/activate 	(for linux)
 
 		venv/Scripts/activate 		(for windows)
@@ -44,7 +44,7 @@ Now our backend is up and running, Time to run the react app :
 Note : Here in our app, we are having 2 main things - splits and transactions.
 	Splits - splits are what you called as transactions in our problem statement.
 	Transactions - these are normal money transfers in which money can be transferred from one person to another person.
-<br>
+
 3. Once u added some friends, You can start by adding splits, deleting and updating them in the splits page.
 4. You can clear the splits (or) pay the transactions from the split single page.
 5. You can also make normal transactions from the dashboard.
