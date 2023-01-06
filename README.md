@@ -42,7 +42,9 @@ Now our backend is up and running, Time to run the react app :
 2. Then go to the friends page and start by adding the friends to make any transactions or splits. 
 <br>
 Note : Here in our app, we are having 2 main things - splits and transactions.
+
 	Splits - splits are what you called as transactions in our problem statement.
+	
 	Transactions - these are normal money transfers in which money can be transferred from one person to another person.
 
 3. Once u added some friends, You can start by adding splits, deleting and updating them in the splits page.
